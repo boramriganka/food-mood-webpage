@@ -238,12 +238,7 @@ video {
     background-position:center;
     background-repeat:no-repeat;
 }
-.destinations .grid li.small{
-    flex-basis:50%;
-}
-.destinations .grid li.large{
-    flex-basis:50%;
-}
+
 .grid{
     width:100%;
     display:flex;
